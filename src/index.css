@@ -20,4 +20,6 @@ body {
 @theme {
   --font-playWrite: "Playwrite DK Loopet", "sans-serif";
   --color-main: #edeef6;
+  --color-secondary: #8c56ff;
+  --color-secondary-hover: #9e73fc;
 }

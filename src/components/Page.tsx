@@ -6,7 +6,7 @@ interface PageProps {
 
 function Page(props: PageProps) {
     return (
-        <div className="bg-white dark:bg-gray-900 transition-colors">
+        <div className="bg-main dark:bg-gray-900 transition-colors">
             {props.children}
         </div>
     )
